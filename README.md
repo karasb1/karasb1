@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Welcome to my GitHub repository! I’m currently learning.
+**C++** and **C#** and using this space to document my progress. Here, you'll find code snippets, small projects, and exercises that demonstrate my understanding of key programming concepts such as algorithms, data structures, object-oriented programming (OOP), and more.
+This repository is a work in progress as I explore both languages, and I plan to add more as I continue learning. Feel free to explore my projects, suggest improvements, or contribute to this journey!
 <!--
 **karasb1/karasb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
